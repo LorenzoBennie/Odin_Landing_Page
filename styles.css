@@ -80,7 +80,7 @@ h1 {
 
 .header_acoustic {
   width: 500px;
-  height: 250px;
+  height: auto;
 }
 
 .left_header {
