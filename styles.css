@@ -92,6 +92,7 @@ h1 {
     border: 0px
 }
 
+
 .subtext h1 {
   text-align: center;
   font-size: 36px;
@@ -125,3 +126,19 @@ h1 {
     color: #1F2937;
 }
 
+.quote {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    background-color: #E5E7EB;
+    padding: 80px 560px;
+}  
+
+.quote em {
+   font-size: 36px; 
+   color: #1F2937;
+}
+
+.quote_reference {
+    align-self: end;
+}
