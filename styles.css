@@ -32,6 +32,20 @@ ul {
   color: #E5E7EB;
 }
 
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+li button {
+  background-color: #3882f6;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #E5E7EB;
+  border-radius: 10px;
+}
+
 .header_logo {
   display: flex;
   align-items: center;
@@ -62,6 +76,11 @@ h1 {
     width: 500px;
     color: #E5E7EB;
     
+}
+
+.header_acoustic {
+  width: 500px;
+  height: 250px;
 }
 
 .left_header {
@@ -118,6 +137,12 @@ h1 {
   border-radius: 10px;
   width: 150px;
   height: 150px;
+}
+
+.product {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
 }
 
 .box_text {
